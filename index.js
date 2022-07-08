@@ -72,8 +72,8 @@ function favouriteFruit(theme) {
         setProp('--light', "#d62e2e")
         setProp('--dark', "#600000")
     } else if (theme === "avocado") {
-        setProp('--light', "#6b8c21")
-        setProp('--dark', "#704012")
+        setProp('--light', "#34568B")
+        setProp('--dark', "#34568B")
     } else if (theme === "orange") {
         setProp('--light', "#ffca16")
         setProp('--dark', "#f97300")
